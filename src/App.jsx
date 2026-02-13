@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import './App.css';
 
 const Portfolio = () => {
@@ -32,7 +32,7 @@ const Portfolio = () => {
       "Python",
       "JavaScript",
       "Shell Scripting",
-      
+
     ],
   },
   {
